@@ -52,7 +52,8 @@ Looking at the map, we can see that high-priced homes are spread across many are
 
 
 
-<img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/9055ee4f-8670-468d-a71e-f7cb414f6d4d" /> <img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/a3e01320-6f83-4756-8cd6-6dd2cf31967c" />
+<img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/b19e045d-3d30-436c-9e63-97b22b4d4384" /> <img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/2c2104a2-57e6-4477-90a7-5f1d520005d0" />
+
 
 
 
